@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MicroSassFast — Typescript
 
 Hey Indie Hacker 👋 it's Dennis from [MicroSassFast](https://docs.microsaasfast.me/). Let's build your SaaS fast and NOW!
@@ -19,3 +20,6 @@ Hey Indie Hacker 👋 it's Dennis from [MicroSassFast](https://docs.microsaasfas
 ## Support
 
 Reach out to me on [Twitter](https://twitter.com/DennisBabych) or hello@db2.io
+=======
+# microsaas
+>>>>>>> b96fcd029616552943edcd5636777308d2770774
